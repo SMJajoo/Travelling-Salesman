@@ -8,7 +8,7 @@ The content in the excel file explains the procedure and details.
 
 Technologies used:
 
-The project works on Excel OPenSolver and quick solver.
+The project works on Excel OpenSolver- quick solver and LP solve.
 
 
 Final results :
